@@ -43,5 +43,7 @@ h2 {
     color: deeppink;
 }
 #footer {
-    background-color: aliceblue;
+    height: 30px;
+    background-color: #3f2e60;
+    color: #ffffff;
 }
