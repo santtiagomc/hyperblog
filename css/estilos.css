@@ -39,3 +39,8 @@ body {
 h2 {
     color: deeppink;
 }
+#footer {
+    height: 30px;
+    background-color: #3f2e60;
+    color: #ffffff;
+}
