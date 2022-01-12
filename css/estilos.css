@@ -45,5 +45,10 @@ body {
     text-align: center;
 }
 h2 {
-    color: #c170ab;
+    color: deeppink;
+}
+#footer {
+    height: 30px;
+    background-color: #3f2e60;
+    color: #ffffff;
 }
