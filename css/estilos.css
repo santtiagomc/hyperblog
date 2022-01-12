@@ -34,6 +34,11 @@ body {
 #container h1 { 
     font-size: 20px;
 }
+#rueda {
+    margin: -22px 0px;
+    width: 70px;
+    height: 70px;
+}
 #post {
     margin-top: 50px;
     font-size: 20px;
