@@ -1,4 +1,4 @@
-# hyperblog
+# 🔴 hyperblog 
 Blog para el curso de git y github para el curso de Platzi.
 
 > En platzi e realizado el curso de Git y Github, gracias a esta buena introduccion e podido realizar multiples tareas y proyectos.
