@@ -47,7 +47,8 @@ h2 {
     color: #3f2e60;
 }
 #footer {
-    height: 30px;
+    text-align: start;
+    height: 80px;
     background-color: #3f2e60;
     color: #ffffff;
 }
